@@ -18,10 +18,6 @@ These files are **tutorial-style explanations** of important themes and selected
 | [07_errors_templates_misc.md](07_errors_templates_misc.md) | Exceptions vs errors, constants, templates — headline rules |
 | [08_gsl_guidelines_support_library.md](08_gsl_guidelines_support_library.md) | **`span`**, **`not_null`**, **`owner`**, contracts vocabulary |
 
-## Relation to *Effective Modern C++* notes
-
-If you are also using the notes under `notes/`, treat the Core Guidelines as **project-wide policy** and Meyers’ book as **feature-level mechanics**; together they answer “what should code look like?” and “how does this C++11/14 feature behave?”
-
 ## License / attribution
 
 The [published guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) are offered under an MIT-style license. These derivative notes are original prose informed by that document; rule numbers (**P.1**, **R.1**, etc.) refer to the public guideline set.
